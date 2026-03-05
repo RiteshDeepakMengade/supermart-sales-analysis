@@ -6,28 +6,32 @@
 
 ✦ Key Responsibilities:-
  
- Processed and cleaned grocery sales data for analysis
- Built an interactive Power BI dashboard to visualize sales performance
- Analyzed sales by product category, region, and time period
- Created KPIs to monitor revenue, profit, and sales trends
- Designed charts and visualizations for clear business insights
+• Processed and cleaned grocery sales data for analysis
+
+• Built an interactive Power BI dashboard to visualize sales performance
+
+• Analyzed sales by product category, region, and time period
+
+• Created KPIs to monitor revenue, profit, and sales trends 
+
+• Designed charts and visualizations for clear business insights
 
 ✦ Key Insights:-
 
- Identified top-performing product categories and items
+• Identified top-performing product categories and items
  
- Analyzed regional sales performance
+• Analyzed regional sales performance
  
- Tracked monthly revenue and profit trends
+• Tracked monthly revenue and profit trends
 
 ✦ Tools & Technologies Used 
 
   Power BI
   
-  Excel
+ • Excel
  
-  Data Visualization
+ • Data Visualization
  
-  Data Cleaning
+ • Data Cleaning
 
-  Business Intelligence
+ • Business Intelligence
