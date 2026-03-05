@@ -1,5 +1,24 @@
+✦ Ritesh Deepak Mengade
+  Data Analyst | Power BI | SQL | Excel | Python
+
+📍 Mumbai, India
+📧 riteshmengade143@gmail.com
+
+✦ About Me I am a Data Analyst with strong skills in Power BI, SQL, Excel, and Python. I hold the Microsoft Data Analyst Associate         certification. I specialize in building dashboards, analyzing data, and generating insights for better business decisions.
+
+✦ Skills Power BI
+  SQL
+  Excel
+  Python
+  Data Cleaning
+  Data Visualization
+
+✦ Project
+
 🛒 Supermart Grocery Sales Dashboard
- • Project Description Developed an interactive sales dashboard to analyze grocery store sales performance using Power BI. The dashboard       provides insights into product sales, customer purchasing trends, and overall business performance to support data-driven decision          making.
+• Project Description Developed an interactive sales dashboard to analyze grocery store sales performance using Power BI. The dashboard     provides insights into product sales, customer purchasing trends, and overall business performance to support data-driven decision        making.
+
+
 
 • Key Responsibilities
  Processed and cleaned grocery sales data for analysis
