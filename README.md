@@ -14,7 +14,8 @@ Profitability Analysis
 Tooltip View Analysis
 ![Supermart Dashboard](TooltipViewAnalysis.png)
 
-
+Customer Deep Dive Analysis
+![Supermart Dashboard](CustomerDeepDiveAnalysis.png)
 
 
 ✦ Key Responsibilities:-
