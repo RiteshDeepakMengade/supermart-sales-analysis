@@ -6,7 +6,7 @@
 
 ## 📸 Dashboard Preview
 
-![Supermart Dashboard](Supermart Executive Overview Dashboard.png)
+![Supermart Dashboard](SupermartExecutiveOverviewDashboard.png)
 
 
 
