@@ -4,6 +4,15 @@
  
  Developed an interactive sales dashboard to analyze grocery store sales performance using Power BI. The dashboard provides insights into  product sales, customer purchasing trends, and overall business performance to support data-driven decision making.
 
+## 📸 Dashboard Preview
+
+![Supermart Dashboard](SupermartExecutiveOverviewDashboard.png)
+
+
+
+
+
+
 ✦ Key Responsibilities:-
  
 • Processed and cleaned grocery sales data for analysis
