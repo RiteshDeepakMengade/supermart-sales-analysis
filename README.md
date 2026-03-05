@@ -8,6 +8,7 @@
 
 ![Supermart Dashboard](SupermartExecutiveOverviewDashboard.png)
 
+Profitability Analysis
 ![Supermart Dashboard](ProfitabilityAnalysis.png)
 
 
